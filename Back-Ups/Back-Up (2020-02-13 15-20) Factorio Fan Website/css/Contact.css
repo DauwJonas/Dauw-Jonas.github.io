@@ -1,0 +1,73 @@
+/****
+ *  General
+ */
+
+section#Contact h2 {
+    text-align: center;
+}
+
+form {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+    margin-top: 0;
+    text-align: center;
+}
+
+label,
+input,
+textarea {
+    display: block;
+    color: inherit;
+}
+
+label {
+    margin-bottom: .5rem;
+}
+
+input,
+textarea {
+    background-color: #262626;
+    border-color: #34393D;
+    border-radius: .25rem;
+    border-style: solid;
+    border-width: 1px;
+    max-width: calc(100vw - 2px - .5rem);
+    padding: .25rem;
+    width: 30rem;
+}
+
+textarea {
+    height: 10rem;
+}
+
+p:last-child {
+    text-align: center;
+}
+
+p:last-child label {
+    display: none;
+}
+
+input#submit {
+    background-color: #82471A;
+    border-color: #592D10;
+    border-radius: .5rem;
+    border-width: 2px;
+    color: #D1D1D1;
+    display: inline;
+    font-weight: bold;
+    padding: .5rem;
+    text-align: center;
+    transition-duration: .15s;
+    width: 7rem;
+}
+
+input#submit:hover,
+input#submit:focus {
+    background-color: #592D10;
+    border-color: #82471A;
+}

@@ -1,0 +1,17 @@
+CSS fonts
+
+    /* Normal */
+    /*font-family: 'Times New Roman', Times, serif;*/
+    /* Ugly */
+    /*@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab&display=swap');*/
+    /*font-family: 'Roboto Slab', serif;*/
+    /*font-family: 'Roboto', sans-serif;*/
+    /* Maybe */
+    /*@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');*/
+    /*font-family: 'Source Sans Pro', sans-serif;*/
+    /*@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');*/
+    /*font-family: 'Open Sans', sans-serif;*/
+    /*@import url('https://fonts.googleapis.com/css?family=Gelasio&display=swap');*/
+    font-family: 'Gelasio', serif;
+    /*@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');*/
+    /*font-family: 'Lora', serif;*/
